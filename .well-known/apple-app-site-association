@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "HD937S6V3N.com.courtbeat.app",
+        "paths": ["/c/*"]
+      }
+    ]
+  }
+}
