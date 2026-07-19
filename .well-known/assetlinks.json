@@ -4,7 +4,7 @@
     "target": {
       "namespace": "android_app",
       "package_name": "com.courtbeat.app",
-      "sha256_cert_fingerprints": ["ANDROID_SIGNING_CERT_SHA256_PLACEHOLDER"]
+      "sha256_cert_fingerprints": ["48:1F:C2:1E:17:09:C3:62:CE:2D:AC:52:C5:FC:9A:39:CB:5F:8E:7E:3D:A4:E5:D2:A3:2B:48:08:06:3C:A7:EA"]
     }
   }
 ]
